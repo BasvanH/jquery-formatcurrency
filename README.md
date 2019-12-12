@@ -2,11 +2,21 @@
 
 This is a continuation / enhancement to [Ben Dewey's plugin with the same name](https://code.google.com/p/jquery-formatcurrency/). Most of the work is his', I've just added a few features and options, and fixed some small issues, so at least most credits goes to him.
 
+
 @2019-21-10 / The package is added to npm repository.
 
 ## Usage
 
 Refer to Ben's [wiki page](https://code.google.com/p/jquery-formatcurrency/wiki/Usage) on his google code page for basic usage. Once you've got the basics, read on for the additional options and features available on my version.
+
+## Install
+Using npm: ```npm i jquery-formatcurrency'''
+
+Make sure you place the jquery-formatcurrency plugin after jquery.
+
+Add the plugin to your project: ```require("jquery-formatcurrency");'''
+
+Or add add your plugin as in include: ```<script src="myscripts.js"><path>/jquery.formatCurrency.js</script>```
 
 ### Old / on-demand Usage
 

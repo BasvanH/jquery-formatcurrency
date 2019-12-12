@@ -1,0 +1,25 @@
+{
+  "main": "jquery.formatCurrency.js",
+  "name": "jquery-formatcurrency",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BasvanH/jquery-formatcurrency.git"
+  },
+  "version": "1.6.0",
+  "description": "This is a continuation / enhancement to [Ben Dewey's plugin with the same name](https://code.google.com/p/jquery-formatcurrency/). Most of the work is his', I've just added a few features and options, and fixed some small issues, so at least most credits goes to him.",
+  "bugs": {
+    "url": "https://github.com/BasvanH/jquery-formatcurrency/issues"
+  },
+  "homepage": "https://github.com/BasvanH/jquery-formatcurrency#readme",
+  "keywords": [
+    "jquery",
+    "format",
+    "currency",
+    "formatcurrency"
+  ],
+  "author": "basvanh",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

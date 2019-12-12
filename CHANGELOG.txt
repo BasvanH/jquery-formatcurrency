@@ -1,3 +1,6 @@
+Changes in v1.6
+- Added package to npm: https://www.npmjs.com/package/jquery-formatcurrency
+
 Changes in v1.5
 - Added fix and test for issue #20 "asdfsafasdf" was not formatting.   Blank still doesn't format.
 
