@@ -13,7 +13,7 @@
 //    You should have received a copy of the GNU Lesser General Public License along with 
 //    the jQuery formatCurrency Plugin.  If not, see <http://www.gnu.org/licenses/>.
 
-(function($) {
+(function ($) {
 
 	$.formatCurrency.regions['de'] = {
 		symbol: '€',
@@ -32,7 +32,7 @@
 		digitGroupSymbol: ',',
 		groupDigits: true
 	};
-	
+
 	$.formatCurrency.regions['es'] = {
 		symbol: '€',
 		positiveFormat: '%n %s',
@@ -75,6 +75,15 @@
 		negativeFormat: '%s-%n',
 		decimalSymbol: '.',
 		digitGroupSymbol: ',',
+		groupDigits: true
+	};
+
+	$.formatCurrency.regions['nl'] = {
+		symbol: '€',
+		positiveFormat: '%s %n',
+		negativeFormat: '%s -%n',
+		decimalSymbol: ',',
+		digitGroupSymbol: '.',
 		groupDigits: true
 	};
 

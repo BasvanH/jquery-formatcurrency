@@ -1,3 +1,7 @@
+Changes in v1.6.3
+- Added aditional regional i18n files.
+- Added aditional info to the readme regarding i18n.
+
 Changes in v1.6
 - Added package to npm: https://www.npmjs.com/package/jquery-formatcurrency
 

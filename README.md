@@ -135,6 +135,16 @@ Sets the default options for the `toNumber` method only
 
 Sets the default options for the `asNumber` method only
 
+#### i18n region includes
+
+For the default settings to work you need include the region js files. You can find them in `/i18n/jquery.formatCurrency.<language>.js`
+
+```
+var settings = {
+	region: 'nl'
+}
+```
+
 ## Breaking changes
 
 <sup>(Well, that should actually be "breaking change" for now, but who knows what's in the future for this? :-))</sup>
