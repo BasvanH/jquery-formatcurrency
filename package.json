@@ -5,7 +5,7 @@
     "type": "git",
     "url": "git+https://github.com/BasvanH/jquery-formatcurrency.git"
   },
-  "version": "1.6.1",
+  "version": "1.6.3",
   "description": "This is a continuation / enhancement to [Ben Dewey's plugin with the same name](https://code.google.com/p/jquery-formatcurrency/). Most of the work is his', I've just added a few features and options, and fixed some small issues, so at least most credits goes to him. And is now added to npm.",
   "bugs": {
     "url": "https://github.com/BasvanH/jquery-formatcurrency/issues"
